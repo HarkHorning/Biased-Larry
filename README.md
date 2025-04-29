@@ -13,3 +13,5 @@ Probably just Pythhon
 For rendering, probably Flask.
 
 ## Hosting
+
+Burn that bridge when we get there

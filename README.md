@@ -29,6 +29,8 @@ Burn that bridge when we get there
 
 # Architcture stuff
 
+Current thoughts:
+
 * Create a data folder for storing text information for chunking and embedding. Probably does not need a db because the information will probably not be so sizable as to require that.
 
 * Send context to chatbot api, or send query to pretrained local LLM.

@@ -8,7 +8,7 @@ Seems like langchain includes embedding and text chunking functions.
 
 ## Server side
 
-
+Probably just Pythhon
 
 For rendering, probably Flask.
 

@@ -11,6 +11,8 @@ Gemini -- has limitations with free api
 
 Langchain -- allows local LLMs, but might be computationally to heavy for hosting for free.
 
+Haystack -- specializes in rag. has free api.
+
 ## Embedding
 
 Seems like langchain includes embedding and text chunking functions.
